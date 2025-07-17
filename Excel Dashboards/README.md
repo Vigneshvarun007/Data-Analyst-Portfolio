@@ -1,4 +1,4 @@
-# 📊 Excel Dashboards
+# 📊 Excel-Dashboards
 
 This folder contains my Excel dashboard projects demonstrating advanced Excel skills such as:
 

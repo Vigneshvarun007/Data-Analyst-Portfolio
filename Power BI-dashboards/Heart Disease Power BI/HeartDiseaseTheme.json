@@ -1,0 +1,17 @@
+{
+  "name": "Heart Disease Theme",
+  "dataColors": ["#d62728", "#ff6b6b", "#ffb3b3", "#4daf4a", "#ffa500", "#800080", "#6a5acd", "#2e2e2e"],
+  "background": "#ffffff",
+  "foreground": "#2e2e2e",
+  "tableAccent": "#d62728",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "fontColor": "#d62728" }],
+        "header": [{ "background": "#f5f5f5" }],
+        "tooltip": [{ "background": "#f5f5f5", "fontColor": "#2e2e2e" }],
+        "border": [{ "color": "#6a5acd" }]
+      }
+    }
+  }
+}

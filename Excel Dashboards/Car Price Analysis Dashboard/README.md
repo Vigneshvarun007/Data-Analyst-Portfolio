@@ -1,4 +1,4 @@
-# 🚗 Car Price Analysis Dashboard
+# 🚗 Car-Price-Analysis-Dashboard
 
 This Excel dashboard provides a visual and statistical analysis of car prices based on engine performance, fuel type, body style, and several other key features. Designed for stakeholders and analysts, this dashboard offers insights into pricing trends and performance-based vehicle segmentation.
 
